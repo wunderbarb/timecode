@@ -1,5 +1,8 @@
 # Timecode
 
+[![GoDoc](https://godoc.org/github.com/wunderbarb/timecode?status.svg)](https://godoc.org/github.com/wunderbarb/timecode)
+[![Go Report Card](https://goreportcard.com/badge/github.com/wunderbarb/timecode)](https://goreportcard.com/report/github.com/wunderbarb/timecode)
+
 This package handles video timecode as defined by SMPTE.
 
 Timecodes define the position frame within a video. 
